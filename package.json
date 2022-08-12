@@ -22,5 +22,11 @@
         "vue": "^2.6.12",
         "vue-loader": "^15.9.8",
         "vue-template-compiler": "^2.6.12"
+    },
+    "dependencies": {
+        "path": "^0.12.7",
+        "stream": "0.0.2",
+        "zlib": "^1.0.5"
     }
+    
 }
